@@ -1,10 +1,7 @@
-# Netflix_Home_Page_Using_HTML_And_CSS
+# myportfolio website 
 
-This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
+This repository contains the code for building a myportfolio website using HTML and CSS. The project aims to recreate the visual design and layout of the portfolio website, to showcase our skills and acheivements.
 
-## Preview
-
-![image](https://github.com/MujeebMulla/Netflix-homepage/blob/main/README.md)
 
 ## Features
 
@@ -17,15 +14,15 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/MujeebMulla/Myportfoliowebsite
 
 ```bash
-git clone https://github.com/MujeebMulla/Netflix-homepage/blob/main/README.md
+git clone 
 ```
 
 2. Open the project in your preferred code editor.
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
+3. Launch the `index.html` file in a web browser to view the myportfolio home page.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
@@ -38,4 +35,3 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 
 ---
 
-Enjoy exploring the code and creating your own Netflix-like home pages!
